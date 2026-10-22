@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="allure-pytest" />
+          <option value="allure-python-commons" />
+          <option value="attrs" />
+          <option value="beautifulsoup4" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="colorama" />
+          <option value="execnet" />
+          <option value="Faker" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="packaging" />
+          <option value="pip" />
+          <option value="pluggy" />
+          <option value="Pygments" />
+          <option value="PyJWT" />
+          <option value="pytest" />
+          <option value="pytest-timeout" />
+          <option value="pytest-xdist" />
+          <option value="python-dotenv" />
+          <option value="requests" />
+          <option value="soupsieve" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
